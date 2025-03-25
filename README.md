@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mohit Shukla!<br>I'm a Computer Science student from India who loves solving problems, building web apps, and automating tasks.<br><br>💻 I enjoy working with C++, JavaScript, and Python, and I'm currently focused on:<br>🔹 Mastering DSA to crack coding interviews<br>🔹 Building full-stack projects with the MERN stack<br>🔹 Exploring automation & scripting to improve efficiency
+👋 Hi, I'm Mohit Shukla!<br>I love solving problems, building web apps, and automating tasks.<br><br>💻 I enjoy working with C++, JavaScript, and Python, and I'm currently focused on:<br>🔹 Mastering DSA to crack coding interviews<br>🔹 Building full-stack projects with the MERN stack<br>🔹 Exploring automation & scripting to improve efficiency
 
 
 ## 🌐 Socials:
