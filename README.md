@@ -1,18 +1,38 @@
-# 💫 About Me:
-👋 Hi, I'm Mohit Shukla!<br>I love solving problems, building web apps, and automating tasks.<br><br>💻 I enjoy working with C++, JavaScript, and Python, and I'm currently focused on:<br>🔹 Mastering DSA to crack coding interviews<br>🔹 Building full-stack projects with the MERN stack<br>🔹 Exploring automation & scripting to improve efficiency
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Systems+Architecture+%26+C%2B%2B;Building+AI-Driven+Engines;Mastering+Data+Structures" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohittshukla1@gmail.com) 
+<p align="center">
+  <b>Software Engineer</b> • <b>Graduating 2026</b>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohittshukla&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mohittshukla&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittshukla&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  Specializing in low-level systems, high-performance backends, and cost-optimized infrastructure.
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=mohittshukla&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,java,react,nodejs,express,mongodb,bash,aws&theme=dark&perline=10" alt="Tech Stack"/>
+</a>
+
+<br><br>
+
+### 🏗️ Core Engineering
+
+</div>
+
+| Project | Architecture & Scope |
+| :--- | :--- |
+| **[Verdict](https://github.com/yourusername/verdict)** | AI retrieval engine designed for legal documentation. Built with **Python** and Vector DBs. |
+| **[Canon](https://github.com/yourusername/canon)** | Full-stack film journal platform ensuring fast data retrieval. Built on the **MERN** stack. |
+| **[C++ KV-Store](https://github.com/yourusername/kv-store)** | High-throughput multi-threaded key-value storage system utilizing POSIX threads. |
+| **[NyayGram](#)** | Co-authored IEEE-format research paper detailing a cost-optimized RAG framework. |
+
+<br>
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=dark&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+
+</div>
