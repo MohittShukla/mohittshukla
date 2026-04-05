@@ -1,94 +1,103 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FwMHl4cjRxMjNpbnNwaTF2MzM2b3cyb3E2bWRmd2lxODU5amE3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSRphPB8BlC/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 10px;" />
-  
-  <br><br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdwNGkxdnJnbmkyMWhqOGtndWV2YnltbmZ0NWhrdDVxZXFudnpraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K9fVwPNo4hLwM9S92t/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.5);" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=👋+Hello,+I'm+Mohit.;Problem+Solver;,+Full+Stack+Dev.;" alt="Typing SVG" />
+<br><br>
 
-  <p align="center" style="font-family: Arial, sans-serif; font-size: 1.1em; color: #888; max-width: 600px;">
-    Focused on mastering complex algorithms, building robust MERN applications, and automating workflows.
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=42&color=F7F7F7&center=true&vCenter=true&width=800&lines=I'm+Mohit+Shukla;Problem+Solver;,+Software+Engineer;" alt="Typing SVG" />
 
-  <br>
-  
-  <a href="mailto:mohittshukla1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&border-radius=10" alt="Gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  
-  <br><br>
-  <hr style="border: 1px solid #222;">
-  <br>
+<p align="center" style="font-family: Arial, sans-serif; font-size: 1.2em; color: #999; max-width: 700px; line-height: 1.6;">
+    Engineer graduating 2026. Specializing in advanced Data Structures, high-performance web applications using the MERN stack, and automated scripting to optimize engineering workflows.
+</p>
 
-</div>
-
-## 🧠 Problem Solving & DSA
-*This is my primary technical focus. I thrive on algorithmic challenges.*
-
-<div align="center">
 <br>
-  
-<table border="0">
+
+<a href="https://mohitshukla.vercel.app"><img src="https://simpleicons.org/icons/webauthn.svg" width="25" alt="Portfolio" style="filter: invert(0.6);" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mohittshukla1@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" width="25" alt="Email" style="filter: invert(0.6);" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="https://simpleicons.org/icons/linkedin.svg" width="25" alt="LinkedIn" style="filter: invert(0.6);" /></a>
+
+<br><br>
+<hr style="border: 0; border-top: 1px solid #222; width: 80%;">
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="80%">
   <tr>
-    <td align="center" width="200px">
-      <img src="https://simpleicons.org/icons/leetcode.svg" width="40" height="40" style="filter: invert(1);"/><br>
-      <b>LeetCode</b>
+    <td align="left" width="50px">
+      <img src="https://simpleicons.org/icons/leetcode.svg" width="45" style="filter: invert(1); opacity: 0.8;" />
     </td>
-    <td align="left">
-      <ul>
-        <li>Current Contest Rating: <b><font color="#00599C" size="4">1621</font></b></li>
-        <li>Focus: Advanced Data Structures, Graph Theory, DP</li>
-        <li>Actively competing to achieve Knight/Guardian ranking.</li>
-      </ul>
+    <td align="left" style="padding-left: 20px;">
+      <h2 style="font-family: Poppins, sans-serif; font-weight: 500; margin: 0; color: #F7F7F7;">Algorithmic Foundations</h2>
+    </td>
+  </tr>
+</table>
+
+<table border="0" cellpadding="15" cellspacing="0" width="80%" style="background-color: rgba(255,255,255,0.02); border-radius: 12px; margin-top: 15px; border: 1px solid #222;">
+  <tr>
+    <td align="center" width="150px">
+      <p style="margin: 0; color: #999;">Contest Rating</p>
+      <h1 style="color:#007BFF; font-size:54px; margin: 10px 0;">1621</h1>
+      <p style="margin: 0; font-weight: bold; color: #F7F7F7;">Expert Level</p>
+    </td>
+    <td style="padding-left: 30px; line-height: 1.8; color: #999;">
+        Mastering complex algorithms to minimize complexity. Actively solving advanced Graph Theory, Dynamic Programming, and Tree structure problems. Focused on achieving Knight ranking.
+    </td>
+  </tr>
+</table>
+
+<br><br>
+<hr style="border: 0; border-top: 1px solid #222; width: 80%;">
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="80%">
+  <tr>
+    <td align="left" width="50px">
+      <img src="https://simpleicons.org/icons/react.svg" width="45" style="filter: invert(1); opacity: 0.8;" />
+    </td>
+    <td align="left" style="padding-left: 20px;">
+      <h2 style="font-family: Poppins, sans-serif; font-weight: 500; margin: 0; color: #F7F7F7;">Engineering Projects</h2>
     </td>
   </tr>
 </table>
 
 <br>
-</div>
 
-## 💻 Full-Stack Development
-*I specialize in building end-to-end web applications with efficient backends.*
+<table border="0" cellpadding="15" cellspacing="0" width="80%" style="border-radius: 12px; margin-bottom: 20px; border: 1px solid #222;">
+  <tr>
+    <td width="70%" style="line-height: 1.6;">
+      <h3 style="color: #F7F7F7; margin: 0 0 10px 0;">🎥 Canon • <a href="https://canon.vercel.app" style="color: #007BFF; text-decoration: none;">Live Demo</a></h3>
+      <p style="color: #999; margin: 0;">An immersive, full-stack movie journal engineered on the MERN stack. Designed to allow users to catalog their cinematic journey, curate personalized watchlists, and log reflective reviews and ratings.</p>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://simpleicons.org/icons/filmora.svg" width="70" style="filter: invert(1); opacity: 0.3;" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+<table border="0" cellpadding="15" cellspacing="0" width="80%" style="border-radius: 12px; margin-bottom: 20px; border: 1px solid #222;">
+  <tr>
+    <td align="center" width="30%">
+      <img src="https://simpleicons.org/icons/openai.svg" width="70" style="filter: invert(1); opacity: 0.3;" />
+    </td>
+    <td width="70%" style="line-height: 1.6;">
+      <h3 style="color: #F7F7F7; margin: 0 0 10px 0;">⚖️ Verdict • <a href="https://verdict.vercel.app" style="color: #007BFF; text-decoration: none;">Live Demo</a></h3>
+      <p style="color: #999; margin: 0;">An intelligent application employing specialized AI models to mediate conflict. It analyzes competing arguments between two parties, delivering a definitive (and appropriately sarcastic) conclusion on who holds the winning perspective.</p>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h2 align="center" style="font-family: Poppins, sans-serif; font-weight: 500; color: #F7F7F7;">Core Technologies</h2>
 <br>
-
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,java,bash,git&theme=dark&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,python,bash,vercel,git&theme=dark&perline=10" alt="Tech Stack"/>
 </a>
 
 <br><br>
-</div>
-
-### 🏗️ Featured Projects (Development Focus)
-*Rather than listing tools, here is the engineering I am applying them to:*
-
-<div align="center">
-<table border="0" width="80%">
-  <tr>
-    <td>
-      <h3>🎥 Project Name (MERN Stack)</h3>
-      <p><i>Brief one-sentence description of the engineering problem you solved here. Focus on complexity (e.g., Optimized image uploading, implemented JWT auth, designed a custom caching layer).</i></p>
-      <p><a href="#"><b>Repo Link</b></a> • <a href="#"><b>Live Demo</b></a></p>
-    </td>
-  </tr>
-</table>
+<hr style="border: 0; border-top: 1px solid #222; width: 80%;">
 <br>
 
-<table border="0" width="80%">
-  <tr>
-    <td>
-      <h3>🤖 Automation / Scripting Project</h3>
-      <p><i>Describe how you improved efficiency. (e.g., Developed Python/Bash scripts to automate data scraping, deployment pipelines, or local environment setup).</i></p>
-      <p><a href="#"><b>Repo Link</b></a></p>
-    </td>
-  </tr>
-</table>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=mohittshukla&theme=transparent&hide_border=true&show_icons=true&title_color=F7F7F7&icon_color=007BFF&text_color=999999&bg_color=00000000&rank_icon=github" height="150" alt="GitHub Stats"/>
 
 <br>
-<hr style="border: 1px solid #222;">
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohittshukla&theme=midnight-purple&hide_border=true&show_icons=true&title_color=00599C&icon_color=00599C&text_color=ffffff&bg_color=00000000" height="150" alt="GitHub Stats"/>
 </div>
