@@ -64,7 +64,7 @@
 <table border="0" cellpadding="15" cellspacing="0" width="80%" style="border-radius: 12px; margin-bottom: 20px; border: 1px solid #222;">
   <tr>
     <td width="70%" style="line-height: 1.6;">
-      <h3 style="color: #F7F7F7; margin: 0 0 10px 0;">🎥 Canon • <a href="https://canon.vercel.app" style="color: #007BFF; text-decoration: none;">Live Demo</a></h3>
+      <h3 style="color: #F7F7F7; margin: 0 0 10px 0;">🎥 Canon • <a href="https://getcanon.vercel.app" style="color: #007BFF; text-decoration: none;">Live Demo</a></h3>
       <p style="color: #999; margin: 0;">An immersive, full-stack movie journal engineered on the MERN stack. Designed to allow users to catalog their cinematic journey, curate personalized watchlists, and log reflective reviews and ratings.</p>
     </td>
     <td align="center" width="30%">
@@ -79,7 +79,7 @@
       <img src="https://simpleicons.org/icons/openai.svg" width="70" style="filter: invert(1); opacity: 0.3;" />
     </td>
     <td width="70%" style="line-height: 1.6;">
-      <h3 style="color: #F7F7F7; margin: 0 0 10px 0;">⚖️ Verdict • <a href="https://verdict.vercel.app" style="color: #007BFF; text-decoration: none;">Live Demo</a></h3>
+      <h3 style="color: #F7F7F7; margin: 0 0 10px 0;">⚖️ Verdict • <a href="https://getverdict.vercel.app" style="color: #007BFF; text-decoration: none;">Live Demo</a></h3>
       <p style="color: #999; margin: 0;">An intelligent application employing specialized AI models to mediate conflict. It analyzes competing arguments between two parties, delivering a definitive (and appropriately sarcastic) conclusion on who holds the winning perspective.</p>
     </td>
   </tr>
