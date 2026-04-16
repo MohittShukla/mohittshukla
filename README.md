@@ -2,9 +2,9 @@
 
 <br/>
 
-<picture>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=MOHIT%20SHUKLA&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Computer%20Science%20Engineer%20%E2%80%93%20Web%20%26%20AI%20Systems&descSize=14&descAlignY=85&descColor=888888" alt="Mohit Shukla" width="100%"/>
-</picture>
+
 
 <br/>
 
