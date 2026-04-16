@@ -2,9 +2,7 @@
 
 <br/>
 
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=MOHIT%20SHUKLA&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Computer%20Science%20Engineer%20%E2%80%93%20Web%20%26%20AI%20Systems&descSize=14&descAlignY=85&descColor=888888" alt="Mohit Shukla" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0f0f,100:1a1a2e&amp;height=120&amp;section=header&amp;text=MOHIT%20SHUKLA&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=65&amp;desc=Computer%20Science%20Engineer%20%E2%80%93%20Web%20%26%20AI%20Systems&amp;descSize=14&amp;descAlignY=85&amp;descColor=888888" alt="Mohit Shukla" width="100%"/>
 
 <br/>
 
