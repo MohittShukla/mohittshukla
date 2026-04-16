@@ -1,21 +1,99 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   █▀▄▀█ █▀█ █░█ █ ▀█▀   █▀ █░█ █░█ █▄▀ █░░ ▄▀█             ║
-║   █░▀░█ █▄█ █▀█ █ ░█░   ▄█ █▀█ █▄█ █░█ █▄▄ █▀█             ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<br/>
 
-**`Computer Science Engineer · Web Systems · AI Infrastructure`**
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=MOHIT%20SHUKLA&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Computer%20Science%20Engineer%20%E2%80%93%20Web%20%26%20AI%20Systems&descSize=14&descAlignY=85&descColor=888888" alt="Mohit Shukla" width="100%"/>
+</picture>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-000000?style=for-the-badge&logoColor=white)](https://mohitshukla.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/mohittshukla)
-[![Email](https://img.shields.io/badge/◈_MAIL-EA4335?style=for-the-badge&logoColor=white)](mailto:mohittshukla1@gmail.com)
+<a href="https://mohitshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&label=%E2%86%97%20Portfolio" height="24"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mohittshukla"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&label=%E2%86%97%20LinkedIn" height="24"/></a>&nbsp;&nbsp;
+<a href="mailto:mohittshukla1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&label=%E2%86%97%20Email" height="24"/></a>
+
+<br/><br/>
+
+</div>
+
+---
+
+<br/>
+
+```
+  I build systems that are fast, precise, and honest about what they do.
+  Low-level storage engines in C++. Full-stack apps deployed at scale.
+  Async AI pipelines that don't hallucinate their architecture.
+
+  B.Tech Computer Science · Class of 2026
+  Daily driver: Neovim (LazyVim) on Linux
+```
+
+<br/>
+
+---
+
+## &nbsp;&nbsp;◈&nbsp; Projects
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### [Canon](https://getcanon.vercel.app) — Full-Stack Movie Journal
+A personalized cinema tracking system built for people who take films seriously. Rate, log, and remember everything you've watched.
+
+`React` `Node.js` `Express` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### [Verdict](https://getverdict.vercel.app) — AI Argument Engine
+Async AI pipeline that takes two conflicting viewpoints and delivers logically grounded, sarcastic judgments. Nuance is overrated.
+
+`Python` `FastAPI` `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Bitcask KV Store — Systems Engineering
+A persistent, log-structured key-value storage engine built from scratch. O(1) read and write performance. No compromises.
+
+`C++` `Log-Structured I/O` `Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### Dear Future — Scheduling Platform
+Full-stack delayed email delivery with fault-tolerant recovery. Time-capsule messages delivered on schedule — 99% uptime.
+
+`MERN` `Node-Cron` `Fault Tolerance`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## &nbsp;&nbsp;◈&nbsp; Stack
+
+<br/>
+
+<div align="center">
+
+| Layer | Technologies |
+|:---|:---|
+| **Languages** | C++ · Python · JavaScript · Java · SQL |
+| **Frontend** | React.js · Next.js · Tailwind CSS · Three.js |
+| **Backend** | Node.js · Express.js · FastAPI |
+| **Databases** | MongoDB · MySQL |
+| **Infrastructure** | Git · AWS · Docker · Vercel · Postman |
+| **Environment** | Linux · Neovim (LazyVim) · Bash |
 
 </div>
 
@@ -23,95 +101,13 @@
 
 ---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  > whoami                                                    │
-│                                                              │
-│  I build things that are fast, precise, and don't break.    │
-│  From low-level storage engines in C++ to full-stack apps   │
-│  shipped at scale — I work across the entire stack.         │
-│                                                              │
-│  Currently: B.Tech CSE @ Class of 2026                      │
-│  Operating System: Linux   Editor: Neovim (LazyVim)         │
-│  Mission: Knight ranking on LeetCode. Won't stop until.     │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-## ◈ ENGINEERED SYSTEMS
-
-<br/>
-
-> ### `[01]` **Canon** — *Full-Stack Movie Journal*
-> `MERN` `CRUD` `Responsive UI`
->
-> A personalized cinema tracking system — built for people who take films seriously.
-> React frontend, Node/Express backend, MongoDB persistence. Rate it. Log it. Remember it.
->
-> **→** [getcanon.vercel.app](https://getcanon.vercel.app)
-
-<br/>
-
-> ### `[02]` **Bitcask Key-Value Store** — *Systems Engineering*
-> `C++` `Log-Structured Storage` `O(1) I/O`
->
-> A persistent, log-structured KV storage engine inspired by Riak Bitcask.
-> Built for performance — O(1) reads and writes, zero compromise.
-
-<br/>
-
-> ### `[03]` **Verdict** — *AI Pipeline*
-> `Python` `FastAPI` `LLM`
->
-> An async AI system that takes two conflicting viewpoints and delivers
-> logically grounded, sarcastic verdicts. Because nuance is overrated.
-
-<br/>
-
-> ### `[04]` **Dear Future** — *Automated Scheduling Platform*
-> `MERN` `Node-Cron` `Fault-Tolerant`
->
-> A full-stack delayed email delivery platform with a fault-tolerant recovery system.
-> 99% uptime. Time-capsule messages, delivered on schedule.
-
-<br/>
-
----
-
-## ◈ TECH ARSENAL
-
-<br/>
-
-```
-LANGUAGES      C++  ·  Python  ·  JavaScript  ·  Java  ·  SQL
-
-FRONTEND       React.js  ·  Next.js  ·  Tailwind CSS  ·  Three.js
-
-BACKEND        Node.js  ·  Express.js  ·  FastAPI
-
-DATABASES      MongoDB  ·  MySQL
-
-INFRA          Git  ·  AWS  ·  Docker  ·  Vercel  ·  Postman
-```
-
-<br/>
-
----
-
-## ◈ COMBAT STATS
+## &nbsp;&nbsp;◈&nbsp; Recognition
 
 <br/>
 
 <div align="center">
 
-| Arena | Rank / Score | Detail |
-|:---|:---:|:---|
-| 🟡 LeetCode | **1621** | Expert · 400+ problems · Targeting Knight |
-| 🟠 Amazon ML Challenge 2025 | **Top 800 / Top 1%** | Among 75,000+ participants |
-| 🔵 Algorithmic Focus | **Graph · DP · Trees** | Where precision meets patience |
+🏆 &nbsp;**Top 800 — Top 1%** &nbsp;&nbsp;Amazon ML Challenge 2025&nbsp;&nbsp;|&nbsp;&nbsp;75,000+ participants
 
 </div>
 
@@ -119,17 +115,19 @@ INFRA          Git  ·  AWS  ·  Docker  ·  Vercel  ·  Postman
 
 ---
 
-## ◈ GITHUB ACTIVITY
+## &nbsp;&nbsp;◈&nbsp; GitHub Activity
 
 <br/>
 
 <div align="center">
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohittShukla&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&bg_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=MohittShukla&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=eeeeee&text_color=888888&icon_color=cccccc&hide_rank=true" height="140"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohittShukla&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=eeeeee&text_color=888888" height="140"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohittShukla&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117)
+<br/><br/>
 
-[![LeetCode](https://leetcard.jacoblin.cool/MohittShukla?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/MohittShukla)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohittShukla&theme=github-compact&hide_border=true&bg_color=00000000&color=888888&line=cccccc&point=ffffff&area=true" width="95%"/>
 
 </div>
 
@@ -137,14 +135,16 @@ INFRA          Git  ·  AWS  ·  Docker  ·  Vercel  ·  Postman
 
 ---
 
+<br/>
+
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  "Correctness first. Speed always."  ║
-╚═══════════════════════════════════════╝
-```
+<sub>Correctness first &nbsp;·&nbsp; Speed always</sub>
 
-*B.Tech CSE · Class of 2026 · Building in public*
+<br/>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+</picture>
 
 </div>
