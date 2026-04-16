@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mohit Shukla
-**Computer Science Engineer (Class of 2026) | LTIMindtree GET**
+**Computer Science Engineer (Class of 2026)**
 
 <a href="https://mohitshukla.vercel.app">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Building+High-Performance+Web+Apps;Optimizing+Data+Structures;Architecting+AI-Powered+Pipelines;Living+in+the+Terminal+(Neovim)" alt="Typing SVG" />
