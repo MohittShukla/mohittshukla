@@ -21,9 +21,6 @@
   I build systems that are fast, precise, and honest about what they do.
   Low-level storage engines in C++. Full-stack apps deployed at scale.
   Async AI pipelines that don't hallucinate their architecture.
-
-  B.Tech Computer Science · Class of 2026
-  Daily driver: Neovim (LazyVim) on Linux
 ```
 
 <br/>
