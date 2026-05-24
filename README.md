@@ -95,19 +95,7 @@ Full-stack delayed email delivery with fault-tolerant recovery. Time-capsule mes
 
 ---
 
-## &nbsp;&nbsp;◈&nbsp; Recognition
 
-<br/>
-
-<div align="center">
-
-🏆 &nbsp;**Top 800 — Top 1%** &nbsp;&nbsp;Amazon ML Challenge 2025&nbsp;&nbsp;|&nbsp;&nbsp;75,000+ participants
-
-</div>
-
-<br/>
-
----
 
 ## &nbsp;&nbsp;◈&nbsp; GitHub Activity
 
